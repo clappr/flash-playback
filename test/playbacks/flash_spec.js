@@ -1,4 +1,4 @@
-import { Events, Mediator } from 'clappr'
+import { Events, Mediator } from '@clappr/core'
 
 import Flash from '../../src/playbacks/flash/flash.js'
 

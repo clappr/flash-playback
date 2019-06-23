@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-import { Browser, Events, Mediator, Playback, Utils, template, $ } from 'clappr'
+import { Browser, Events, Mediator, Playback, Utils, template, $ } from '@clappr/core'
 
 import BaseFlashPlayback from '../../playbacks/base_flash_playback'
 import flashSwf from './public/Player.swf'
