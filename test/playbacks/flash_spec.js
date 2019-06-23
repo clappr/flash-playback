@@ -1,6 +1,6 @@
+import { Events, Mediator } from 'clappr'
+
 import Flash from '../../src/playbacks/flash/flash.js'
-import Events from '../../src/base/events.js'
-import Mediator from '../../src/components/mediator.js'
 
 describe('Flash playback', function() {
   before(function() {
