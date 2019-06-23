@@ -3,12 +3,12 @@
 // license that can be found in the LICENSE file.
 
 import BaseFlashPlayback from './playbacks/base_flash_playback'
-import Flash from './playbacks/flash'
+import FlashPlayback from './playbacks/flash'
 
 const version = VERSION
 
 export default {
   BaseFlashPlayback,
-  Flash,
+  FlashPlayback,
   version,
 }
