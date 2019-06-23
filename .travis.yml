@@ -12,7 +12,7 @@ addons:
   firefox: "latest"
 
 env:
-  - COVERALLS_SERVICE_NAME="travis-ci" COVERALLS_REPO_TOKEN="sj8SOxUBGaVeFGSY9ryrC2eTFpVjCPHJl"
+  - COVERALLS_SERVICE_NAME="travis-ci" COVERALLS_REPO_TOKEN="s4vM5P0zUBOkEccyHR5prkeucs57JxGIz"
 
 notifications:
   email:
