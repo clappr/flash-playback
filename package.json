@@ -1,6 +1,6 @@
 {
   "name": "@clappr/flash-playback",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "description": "Clappr Basic Flash playback",
   "main": "./dist/flash-playback.js",
   "module": "./src/main.js",
